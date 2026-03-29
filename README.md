@@ -37,5 +37,5 @@ Identified repeat vs new customer behavior
 Analyzed purchase trends over time
 Evaluated sales distribution across categories
 Highlighted key factors influencing customer purchases
-📸 Dashboard Preview
+
 ![Dashboard Screenshot](Dashboard.png)
